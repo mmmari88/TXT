@@ -1,0 +1,5 @@
+1.Favourite movie: "Atonement"
+2.Favourite serial: "Lost"
+3.Favourite food: pasta"
+4.Favourite season: summer
+5.Country to visit: Greece
